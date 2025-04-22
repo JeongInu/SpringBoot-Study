@@ -251,3 +251,31 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/java,macos,intellij+all,visualstudiocode,gradle,windows,react,git
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.min.js
+.gitignore
+guestbook/src/main/resources/static/css/simple-sidebar.css
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.css
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.css.map
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.min.css
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-grid.min.css.map
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.css
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.css.map
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.min.css
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap.css
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap.css.map
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css
+guestbook/src/main/resources/static/vendor/bootstrap/css/bootstrap.min.css.map
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.js
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.js.map
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.js
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.js.map
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js
+guestbook/src/main/resources/static/vendor/bootstrap/js/bootstrap.min.js.map
+guestbook/src/main/resources/static/vendor/jquery/jquery.js
+guestbook/src/main/resources/static/vendor/jquery/jquery.min.js
+guestbook/src/main/resources/static/vendor/jquery/jquery.min.map
+guestbook/src/main/resources/static/vendor/jquery/jquery.slim.js
+guestbook/src/main/resources/static/vendor/jquery/jquery.slim.min.js
+guestbook/src/main/resources/static/vendor/jquery/jquery.slim.min.map

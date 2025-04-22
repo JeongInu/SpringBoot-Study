@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+guestbook/src/main/resources/static/vendor/*
+guestbook/src/main/resources/*.properties
