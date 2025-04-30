@@ -279,3 +279,16 @@ guestbook/src/main/resources/static/vendor/jquery/jquery.min.map
 guestbook/src/main/resources/static/vendor/jquery/jquery.slim.js
 guestbook/src/main/resources/static/vendor/jquery/jquery.slim.min.js
 guestbook/src/main/resources/static/vendor/jquery/jquery.slim.min.map
+board/src/main/resources/application.properties
+.gitignore
+board/.gitattributes
+board/build.gradle
+board/gradlew
+board/gradlew.bat
+board/settings.gradle
+board/gradle/wrapper/gradle-wrapper.jar
+board/gradle/wrapper/gradle-wrapper.properties
+board/gradle/wrapper/gradle-wrapper.jar
+.gitignore
+.gitignore
+board/gradle/wrapper/gradle-wrapper.jar
